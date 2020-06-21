@@ -19,11 +19,14 @@
   RESULTS:
   
 Number of lines: 2845607
+
 Number of ERROR lines: 361
+
 The process has taken 220 ms
 
 via streams:
 Number of ERROR lines: 361
+
 The process has taken 2330 ms
 
 Calculating the number of ERROR logs is quicker using java-core.
